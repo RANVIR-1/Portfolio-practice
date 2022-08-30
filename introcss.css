@@ -1,0 +1,12 @@
+
+a {
+    color: yellow;
+}
+
+a:visited {
+    color: lightblue;
+}
+
+a :hover,a:active{
+    color: pink;
+}
